@@ -1,5 +1,6 @@
 # website-backup
 Simple customizable Bash script for backing up a website
+This is just my first attempt to learn some Bash and to do something usefull with it. And I also was trying to learn how to pass arguments to a script.
 
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
