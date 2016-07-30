@@ -37,8 +37,8 @@ You can execute the script with the -v option at the end like:
 In that way the script will only backup the main folder of the website, skipping the backup of the subfolders.
 
 # TODO
-- [x]Check if temp directory already exists
-- []Check if temp directory is not empty
-- []Check if connection is ok else echo an error message
-- []Ask for the name of website so we can rename final packet in something like backup-$SITENAME-$giorno.tar.gz
-- []Other things I cannot remember now
+- [x] Check if temp directory already exists
+- [ ] Check if temp directory is not empty
+- [ ] Check if connection is ok else echo an error message
+- [ ] Ask for the name of website so we can rename final packet in something like backup-$SITENAME-$giorno.tar.gz
+- [ ] Other things I cannot remember now
