@@ -18,7 +18,7 @@ Open the script and edit the first lines according to your website FTP credentia
 
 # OPTIONS
 
-1. Complete backup
+1. ##Complete backup
 
     Call the script without any parameters like:
 
