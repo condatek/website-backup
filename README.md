@@ -20,7 +20,7 @@ Open the script and edit the first lines according to your website FTP credentia
 
 ##1. Complete backup
 
-    Call the script without any parameters like:
+Call the script without any parameters like:
 
         sh /path/to/script/website-backup.sh
     
