@@ -23,11 +23,11 @@ Call the script without any parameters like:
 
     sh /path/to/script/website-backup.sh
     
-This will produce a backup of the entire selected website with every subfolders in it.
+    This will produce a backup of the entire selected website with every subfolders in it.
 
 2. Quick backup
 You can execute the script with the -v option at the end like:
 
     sh /path/to/script/website-backup.sh -v
     
-In that way the script will only backup the main folder of the website, skipping the backup of the subfolders.
+    In that way the script will only backup the main folder of the website, skipping the backup of the subfolders.
