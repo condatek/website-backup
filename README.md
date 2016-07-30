@@ -17,7 +17,7 @@ Open the script and edit the first lines according to your website FTP credentia
 
 # OPTIONS
 
-***Complete backup***:
+##Complete backup
 
 Call the script without any parameters like:
 
@@ -25,7 +25,7 @@ Call the script without any parameters like:
   
 This will produce a backup of the entire selected website with every subfolders in it.
 
-***Quick backup***:
+##Quick backup
 
 You can execute the script with the -v option at the end like:
   
