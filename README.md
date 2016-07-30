@@ -15,8 +15,7 @@ Just download the .sh file and give it permissions to execute with:
 
 Open the script and edit the first lines according to your website FTP credentials, change `USERNAME` with your FTP username, `PASSWORD` with the password and `SERVER` with the FTP server without adding ftp:// at the beginning.
 
-
-
+    
 
 # OPTIONS
 
