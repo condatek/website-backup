@@ -12,15 +12,13 @@ Just download the .sh file and give it permissions to execute with:
 
 # USAGE
 
-Open the script and edit the first lines according to your website FTP credentials, change 'USERNAME' with your FTP username, 'PASSWORD' with the password and 'SERVER' with the FTP server without adding ftp:// at the beginning.
+Open the script and edit the first lines according to your website FTP credentials, change `USERNAME` with your FTP username, `PASSWORD` with the password and `SERVER` with the FTP server without adding ftp:// at the beginning.
 
-```asas
-    test := "2.1.2"
-```
 
 # OPTIONS
 
 ***Complete backup***:
+
 Call the script without any parameters like:
 
     sh /path/to/script/website-backup.sh
@@ -28,6 +26,7 @@ Call the script without any parameters like:
 This will produce a backup of the entire selected website with every subfolders in it.
 
 ***Quick backup***:
+
 You can execute the script with the -v option at the end like:
   
     sh /path/to/script/website-backup.sh -v
