@@ -15,6 +15,8 @@ Just download the .sh file and give it permissions to execute with:
 Call the script using:
 
   sh /path/to/script/website-backup.sh
+  
+This will produce a backup of the entire selected website
 
 <h3>Script options</h3>
 Using the script without parameters will backup the entire website with every subfolder in it
