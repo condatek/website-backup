@@ -5,6 +5,7 @@ This is just my first attempt to learn some Bash and to do something usefull wit
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
 - [OPTIONS](#options)
+- [TODO](#todo)
 
 # INSTALLATION
 
@@ -34,3 +35,8 @@ You can execute the script with the -v option at the end like:
     sh /path/to/script/website-backup.sh -v
     
 In that way the script will only backup the main folder of the website, skipping the backup of the subfolders.
+
+# TODO
+[]Check if connection is ok else echo an error message
+[]Ask for the name of website so we can rename final packet in something like backup-$SITENAME-$giorno.tar.gz
+[]Other things I cannot remember now
