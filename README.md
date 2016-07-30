@@ -1,6 +1,7 @@
 # website-backup
 Simple customizable Bash script for backing up a website
 This is just my first attempt to learn some Bash and to do something usefull with it. And I also was trying to learn how to pass arguments to a script.
+After been configured, it will download all files and folders (you can optionally download only root dir with -v option) in a temp directory and then create a compressed tarball with that files.
 
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
